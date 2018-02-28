@@ -7,4 +7,4 @@
 引用了滚动插件better-scroll<br>
 数据使用的是模拟数据
 
-预览地址：http://120.25.84.102/simpleele/dist/index.html 
+预览地址：http://120.25.84.102/simpleele/dist/index.html
